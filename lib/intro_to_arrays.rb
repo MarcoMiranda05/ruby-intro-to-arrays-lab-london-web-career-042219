@@ -1,3 +1,3 @@
-def paulistao
-  @my_new_array = teams
+def instantiate_new_array
+  Array.new
 end
