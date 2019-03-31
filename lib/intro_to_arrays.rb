@@ -16,7 +16,7 @@ def third_element(array)
   array [2]
 end
 
-def third_element(array)
+def last_element(array)
   array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   array [-1]
 end
