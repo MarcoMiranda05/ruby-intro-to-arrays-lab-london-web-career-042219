@@ -1,3 +1,3 @@
 def paulistao
-  teams = []
+  @my_new_array = teams
 end
