@@ -1,2 +1,3 @@
 def paulistao
   teams = []
+end
