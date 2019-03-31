@@ -20,3 +20,7 @@ def last_element(array)
   array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   array [-1]
 end
+
+def first_element_with_array_methods(array)
+  array = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  array.first
